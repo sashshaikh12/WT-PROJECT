@@ -2,7 +2,12 @@ body {
     margin: 0;
     background-image: url(templates/bg_image.jpg);
 }
-
+h2{
+    font-family: 'Playpen Sans', cursive;
+    color:brown;
+    opacity: 1;
+    font-size: large;
+}
 .title {
     color: aliceblue;
     font-size: 30px;
@@ -19,6 +24,7 @@ body {
     text-align: end;
     position: static;
     height: 50px;
+    opacity: 0.8;
 }
 
 a.navset {
