@@ -51,5 +51,6 @@ a.navset {
 }
 .LIVE:hover{
     background-color: rgba(173, 216, 230, 0.5);
+    margin: 5px;
 
 }
