@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background-image: url(templates/bg_image.jpg);
+}
+
+.title {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif;
+    text-decoration: none; /* Remove underline */
+    background-color: black; /* Set background color */
+    float:left;
+    position: static;
+}
+
+.topnav {
+    background-color: black;
+    color: aliceblue;
+    text-align: end;
+    position: static;
+    height: 50px;
+}
+
+a.navset {
+    color: beige;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 10px;
+    border-radius: 10px;
+    background-color:darkslategray;
+    border-color: brown;
+    position:static;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
