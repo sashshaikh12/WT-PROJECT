@@ -49,3 +49,7 @@ a.navset {
     border-radius: 20px;
     position: relative;
 }
+.LIVE:hover{
+    background-color: rgba(173, 216, 230, 0.5);
+
+}
