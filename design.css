@@ -17,6 +17,9 @@ h2{
     float:left;
     position: static;
 }
+.title:hover{
+    font-size: 32px;
+}
 
 .topnav {
     background-color: rgba(0,0,0,0.6);
@@ -34,12 +37,13 @@ a.navset {
     font-size: 10px;
     border-radius: 10px;
     background-color:darkslategray;
-    border-color: brown;
     position:static;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navset:hover{
     background-color: brown;
+    padding: 17px;
+    font-size: 12px;
 }
 
 .LIVE{
