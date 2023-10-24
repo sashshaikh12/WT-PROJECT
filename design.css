@@ -32,3 +32,11 @@ a.navset {
     position:static;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.LIVE{
+    background-color: aliceblue;
+    margin: 10px;
+    height: 15pc;
+    opacity: 0.5;
+    border-radius: 20px;
+}
